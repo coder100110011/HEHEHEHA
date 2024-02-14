@@ -1,0 +1,19 @@
+header {
+    color: rgb(31, 64, 95);
+    background-color: black;
+}
+body {
+    background-color: rgb(41, 41, 41);
+}
+footer {
+    background-color: brown;
+}
+pre {
+    color: beige;
+}
+p {
+    color: rgb(23, 23, 140);
+}
+h4 {
+    color: rgb(255, 255, 255);
+}
